@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ar.couponations.my.id/469636393.xml
+Sitemap: https://ar.couponations.my.id/2062637825.xml
+Sitemap: https://ar.couponations.my.id/1869063866.xml
+Sitemap: https://ar.couponations.my.id/1273495039.xml
